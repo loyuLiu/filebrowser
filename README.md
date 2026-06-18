@@ -11,7 +11,8 @@ File Browser provides a file managing interface within a specified directory and
 ## Documentation
 
 Documentation on how to install, configure, and contribute to this project is hosted at [filebrowser.org](https://filebrowser.org).
-
+## 基于 https://github.com/filebrowser/filebrowser 个人设置新增 上传文件自动重命名 设置功能
+![界面设置截图](./img/filerename-example.png)
 ## Project Status
 
 This project is a finished product which fulfills its goal: be a single binary web File Browser which can be run by anyone anywhere. That means that File Browser is currently on **maintenance-only** mode. Therefore, please note the following:
