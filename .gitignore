@@ -1,0 +1,58 @@
+# Database files
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Backup files
+*.bak
+*.tmp
+*.swp
+*~
+
+# Build outputs
+/filebrowser
+/filebrowser.exe
+/dist
+/bin/
+/build/
+rice-box.go
+
+# Go
+/vendor/
+
+# Node.js
+node_modules/
+.pnpm-debug.log*
+
+# Vue frontend
+/frontend/dist/*
+!/frontend/dist/.gitkeep
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE / Editor
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# OS files
+.DS_Store
+Thumbs.db
+._*
+
+# Misc
+_old/
+default.nix
+Dockerfile.dev
+.venv/
+coverage/
+*.cover
+*.out
